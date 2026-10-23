@@ -95,7 +95,7 @@ export function EmbraceCalendar() {
               <div className="flex items-start justify-between border-b border-[#e5f2f7] pb-7">
                 <div>
                   <p className="text-xs font-semibold uppercase tracking-[0.18em] text-[#68a8bf]">Until 2027</p>
-                  <p className="mt-3 text-2xl font-semibold tracking-[-0.04em]">A little time left.</p>
+                  <p className="mt-3 text-2xl font-semibold tracking-[-0.04em]">You&apos;re good enough and can be better.</p>
                 </div>
                 <Wind className="text-[#64badc]" aria-hidden="true" />
               </div>
@@ -104,7 +104,7 @@ export function EmbraceCalendar() {
                 <div className="pb-1 text-3xl font-light text-[#a7cad8]">+</div>
                 <div><strong className="text-4xl font-semibold leading-none tracking-[-0.06em] text-[#67b8d6]">{countdown.hours}</strong><span className="ml-2 text-sm text-[#6e95a5]">hours</span></div>
               </div>
-              <div className="rounded-2xl bg-[#effaff] p-4 text-sm leading-6 text-[#547b8c]">Spend the rest of the year cautiously. Notice what matters. Keep a record.</div>
+              <div className="rounded-2xl bg-[#effaff] p-4 text-sm leading-6 text-[#547b8c]">Noticing small changes early helps you adapt to the bigger changes that are to come.</div>
             </div>
           </div>
         </section>
