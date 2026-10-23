@@ -76,6 +76,7 @@ export function EmbraceCalendar() {
             <h1 className="max-w-3xl text-5xl font-semibold leading-[0.98] tracking-[-0.06em] sm:text-7xl">
               Embrace the end of the <span className="text-[#38a4cf]">2026.</span>
             </h1>
+            <p className="mt-4 text-sm font-semibold text-[#2786ad]">Now on GitHub</p>
             <p className="mt-7 max-w-xl text-lg leading-8 text-[#55788b]">
               A calendar counting down towards 2027, helping you daily log your status — in whatever format feels right.
             </p>
